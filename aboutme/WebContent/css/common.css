@@ -1,0 +1,44 @@
+body{
+	margin : 0px;
+}
+
+header{
+	border : 5px solid #98FB98;
+}
+
+.main_nav{
+	list-style : none;
+	display : table;
+	margin-left : 53%;
+	margin-right : auto;
+	
+}
+
+.main_nav li{
+	float : left;
+	width : 100px;
+	height : 30px;
+	position : relative;
+	background-color : #98FB98;
+	color : purple;
+	box-shadow : 2px 2px 2px gray;
+	text-align : center;
+	margin-right : 9px;
+}
+
+article{
+	border : 5px solid #98FB98;
+}
+
+footer{
+	border : 5px solid #98FB98;
+	border-bottom : 40px solid #98FB98;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+
+p {
+	margin:0;padding:0;word-break:break-all
+	}
+	
